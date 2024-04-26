@@ -1,4 +1,4 @@
-package week02;
+package OtherProjects.hust.soict.ict.lab02;
 
 public class Cart {
     public static final int MAX_NUMBER_ORDER = 20;

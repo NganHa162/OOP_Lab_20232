@@ -1,4 +1,4 @@
-package week02;
+package OtherProjects.hust.soict.ict.lab02;
 
 public class Aims {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package week01;
+package OtherProjects.hust.soict.ict.lab01;
 
 import javax.swing.JOptionPane;
 public class JavaBasics {

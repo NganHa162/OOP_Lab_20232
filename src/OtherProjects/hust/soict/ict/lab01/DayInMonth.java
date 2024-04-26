@@ -1,4 +1,4 @@
-package week01;
+package OtherProjects.hust.soict.ict.lab01;
 import java.util.Scanner;
 public class DayInMonth {
     public static void main(String[] args) {
