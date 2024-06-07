@@ -1,14 +1,16 @@
+
 package AimsProject.hust.soict.ict.test.disc;
 
 import AimsProject.hust.soict.ict.aims.cart.Cart;
+import AimsProject.hust.soict.ict.aims.exception.CartFullException;
 import AimsProject.hust.soict.ict.aims.media.*;
 
-import java.util.ArrayList;
+import javax.naming.LimitExceededException;
 import java.util.Comparator;
 import java.util.List;
 
 public class ComparatorTest {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws LimitExceededException, CartFullException {
         Cart anOrder = new Cart();
 
         List<Media> itemsInOrdered = anOrder.getItemsOrdered();
